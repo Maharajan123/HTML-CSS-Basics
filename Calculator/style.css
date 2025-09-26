@@ -1,0 +1,18 @@
+* {
+
+}
+
+body{
+    height: 100dvh
+}
+
+.disp{
+    
+}
+
+main{
+    display: position;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%),translateY(-50%);
+

@@ -1,0 +1,95 @@
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+button,
+input,
+textarea {
+    font-size: inherit;
+}
+
+header {
+    font-size: 100px;
+    text-align: center;
+    width: 100%;
+}
+
+body {
+    background-color: whitesmoke;
+    border: 2px solid darkorchid;
+    color: blue;
+    font-size: 20px;
+    margin: 2%;
+    min-height: 400vw;
+    padding: 20px
+}
+
+h3,
+h4 {
+    color: #11e605;
+}
+
+p {
+    color: rebeccapurple;
+    font-size: 18px;
+}
+
+.place {
+    color: blue;
+}
+
+p span {
+    background-color: white;
+}
+
+#names {}
+
+#rolls {
+    color: red;
+}
+
+#royce {
+    color: red;
+}
+
+#meeting {
+    column-count: 4;
+    column-rule: 3px solid #11e605;
+    column-gap: 2rem;
+}
+
+.Rollsimg {
+    width: 562px;
+    float: left;
+}
+
+.royceimg {
+    width: 500px;
+    float: right;
+    margin: 5rem;
+}
+
+#i {
+    font-size: small;
+}
+
+#names {
+    font-size: 2.3rem;
+}
+
+h4 #his {
+    margin-top: 0px;
+}
+
+#list {
+    list-style: none;
+    font-size: px;
+}
+
+.left {
+    margin-top: 0px;
+}
+
+.clear {
+    clear: both;
+}
